@@ -40,3 +40,6 @@ The aboce command deploys our application. Now we will export the NODE_IP and NO
 
 ``` echo http://$NODE_IP:$NODE_PORT ```
 > http://192.168.49.2:30186
+
+## TODO
+- [ ] include the Ingress object with TLS termination
